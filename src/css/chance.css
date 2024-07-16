@@ -1,0 +1,8 @@
+.chance{
+    display: flex;
+    flex-direction: row;
+    gap: 0.5em;
+    width: 92%;
+    height: 20%;
+    margin-top: 0.5em;
+}
